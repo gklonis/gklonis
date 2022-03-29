@@ -2,7 +2,7 @@
 - 👀 I’m interested in Azure
 - 🌱 I’m currently learning Bicep
 - 💞️ I’m looking to collaborate on Azure / Azure DevOps
-- 📫 How to reach me ...
+- 📫 How to reach me via Linkedin profile
 
 <!---
 gklonis/gklonis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
